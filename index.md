@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## Miranda's Coding projects
 
 You can use the [editor on GitHub](https://github.com/mirandabone/mirandabone.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Hi! I'm Miranda and I'm currently learning about web development. This is where I will make host my completed coding projects so that I can share them and show them off. 
 
 # Header 1
 ## Header 2
